@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">API Test</string>
+    <string name="desc">none</string>
+    <string name="login"><b>Login</b></string>
+    <string name="enter">Please Enter Username and Password to continue</string>
+
+
+
+</resources>
